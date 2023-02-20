@@ -1,6 +1,6 @@
 # IBM-Data-Science-Capstone
 
-![image](https://user-images.githubusercontent.com/85270632/220153723-64c29ba2-e1db-49ab-a172-89fda3304394.png)
+![image](https://user-images.githubusercontent.com/85270632/220153723-64c29ba2-e1db-49ab-a172-89fda3304394.png =50%x)
 
 This is a project about analyzing and predicting the landing location of SpaceX Falcon 9. The project was developed through the IBM data science course, starting with web scraping and API integration to gather data from different websites to build a database. SQL was then used to extract and analyze the desired data, followed by exploratory data analysis (EDA) to visualize the data on a web-based interface.
 
@@ -18,7 +18,9 @@ The final product was a predictive model that used machine learning techniques t
 
 Overall, this project demonstrated the power of data science techniques in analyzing and predicting the landing location of Falcon 9 rockets. It showed how web scraping, API integration, SQL, and EDA can be used to gather, store, and analyze large volumes of data, leading to the development of predictive models that can inform future launch decisions.
 
+![image](https://user-images.githubusercontent.com/85270632/220154682-ee92ce52-9727-481c-8cce-3314dfd5f0d8.png)
 
+![image](https://user-images.githubusercontent.com/85270632/220154697-4b6bddbb-fa32-4d8b-b502-2e6e0d4a54e6.png)
 
 
 
